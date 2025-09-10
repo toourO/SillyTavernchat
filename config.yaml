@@ -1,3 +1,4 @@
+host: 0.0.0.0
 port: 8000
 whitelist: []
 cookie_secret: "aB3dE7kL9pQ"
