@@ -49,9 +49,7 @@ whitelistMode: true
 # Whitelist will also verify IP in X-Forwarded-For / X-Real-IP headers
 enableForwardedWhitelist: true
 # Whitelist of allowed IP addresses
-whitelist:
-  - ::1
-  - 127.0.0.1
+whitelist:[]
 # Automatically whitelist Docker host and gateway IPs
 whitelistDockerHosts: true
 # Toggle basic authentication for endpoints
